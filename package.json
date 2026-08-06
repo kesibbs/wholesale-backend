@@ -2,7 +2,7 @@
   "name": "wholesale-backend",
   "version": "1.0.0",
   "description": "Basic wholesale backend for EX288 S2I build practice",
-  "main": "server.js",
+  "main": "server.js"
   "scripts": {
     "start": "node server.js"
   },
